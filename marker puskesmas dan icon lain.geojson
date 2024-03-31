@@ -1,0 +1,286 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "nama_puskesmas": "Puskesmas Mlati 1",
+          "alamat": "Jl. Wijaya Kusuma, Kutu Tegal, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55284"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36292833870795,
+            -7.754520546009218
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama_puskesmas": "Puskesmas Tegalrejo",
+          "alamat": "Jl. Magelang No.180 Km.2, Karangwaru, Kec. Tegalrejo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55242"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36157395024799,
+            -7.772521699361761
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama_puskesmas": "Puskesmas Gondokusuman II",
+          "alamat": "Jl. DR. Sardjito 72-75, Terban, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55223"
+        },
+        "geometry": {
+          "coordinates": [
+            110.37100327428118,
+            -7.778643196804339
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama_puskesmas": "Puskesmas Jetis",
+          "alamat":"Jl. Pangeran Diponegoro No.91, Bumijo, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55231"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36238018229419,
+            -7.78322130669178
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama_puskesmas": "Puskesmas Danurejan I",
+          "alamat": "Jalan Bausasran DN3 No.819, Bausasran, Kec. Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55211"
+  
+        },
+        "geometry": {
+          "coordinates": [
+            110.3752181098344,
+            -7.794552162943788
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama_puskesmas":"PUSKESMAS DANUREJAN II",
+          "alamat":"Jl. Krasak Timur No.34, Bausasran, Kec. Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55211"
+        },
+        "geometry": {
+          "coordinates": [
+            110.37778262694911,
+            -7.788514503686584
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama_puskesmas": "Puskesmas Gondokusuman I",
+          "alamat": "694J+648, Jl. Tunjung No.1, Baciro, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55225"
+        },
+        "geometry": {
+          "coordinates": [
+            110.38074754190916,
+            -7.793777364168648
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama_puskesmas": "Puskesmas Pakualaman Yogyakarta",
+          "alamat": "Jl. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
+        },
+        "geometry": {
+          "coordinates": [
+            110.37197690287024,
+            -7.799388418570743
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama_puskesmas": "Puskesmas Kraton",
+          "alamat": "Jalan Musikanan KT II No.457, Panembahan, Kecamatan Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55131"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36500995609305,
+            -7.806054629066921
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama_puskesmas": "Puskesmas Ngampilan",
+          "alamat": "JL. Munir Serangan Blok.NG.II No.215, Notoprajan, Ngampilan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55262"
+        },
+        "geometry": {
+          "coordinates": [
+            110.35589445729643,
+            -7.803625833471307
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama_puskesmas": "Puskesmas Mantrijeron",
+          "alamat": "Jl. DI Panjaitan No.82, Suryodiningratan, Kec. Mantrijeron, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55141"
+        },
+        "geometry": {
+          "coordinates": [
+            110.36147457781958,
+            -7.820566840421636
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama_puskesmas": "Puskesmas Umbulharjo I(ꦥꦸꦱ꧀ꦏꦼꦱ꧀ꦩꦱ꧀ꦈꦩ꧀ꦧꦸꦭ꧀ꦲꦂꦗ꧇꧑꧇)",
+          "alamat": "Jl. Veteran No.43, Muja Muju, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55165"
+        },
+        "geometry": {
+          "coordinates": [
+            110.39478078731963,
+            -7.80624742833453
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama_puskesmas": "Puskesmas Kotagede 1",
+          "alamat": "Jl. Kemasan No.12, Prenggan, Kec. Kotagede, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55173"
+        },
+        "geometry": {
+          "coordinates": [
+            110.40062571489493,
+            -7.822173179920837
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama_puskesmas": "Depok Public Health Center 3",
+          "alamat": "Jl. Komp. Colombo No.50a, Mrican, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281"
+        },
+        "geometry": {
+          "coordinates": [
+            110.38952047741525,
+            -7.778281041688646
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama_puskesmas": "Puskesmas Wirobrajan",
+          "alamat": "58QX+P6V, Jl. Dorodasih, Patangpuluhan, Wirobrajan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55251"
+        },
+        "geometry": {
+          "coordinates": [
+            110.34806025335251,
+            -7.81061616004334
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama_puskesmas": "Puskesmas Pembantu Sinduadi",
+          "alamat": "69J5+C5X, Rogoyudan, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55242"
+        },
+        "geometry": {
+          "coordinates": [
+            110.35800449152892,
+            -7.76884350330468
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama_puskesmas": "PUSKESMAS Pembantu Giwangan",
+          "alamat": "598R+XH3, Jl. Imogiri Tim., Giwangan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55163"
+        },
+        "geometry": {
+          "coordinates": [
+            110.39144274338219,
+            -7.832578156371042
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "nama_puskesmas": "Health center Nitikan",
+          "alamat": "59FM+R93, Jl. Sorogenen, Sorosutan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55162"
+        },
+        "geometry": {
+          "coordinates": [
+            110.38344209159021,
+            -7.825504685810586
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties":{
+          "nama_puskesmas": "Puskesmas Gedongtengen",
+          "alamat": "Jl. Pringgokusuman No.30, Pringgokusuman, Gedong Tengen, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55272"
+        },
+        "geometry":{
+          "coordinates": [
+            110.35769663993901,
+            -7.791236799789152
+          ],
+          "type":"Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties":{
+          "nama_puskesmas": "Puskesmas Pembantu Bener",
+          "alamat": "Jl. Bener No.48, Bener, Kec. Tegalrejo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55243"
+        },
+        "geometry":{
+          "coordinates": [
+            110.35354826339896,
+            -7.776681159441861
+          ],
+          "type":"Point"
+        }
+      }
+    ]
+  }
